@@ -1,0 +1,796 @@
+,Company,model,Year,Expert_rating,Symbol
+0,acura,ILX,2017,7.2,HMC
+1,acura,RDX,2020,8.1,HMC
+2,acura,MDX,2020,8.2,HMC
+3,acura,ILX,2020,7.3,HMC
+4,acura,ILX,2018,7.3,HMC
+5,acura,MDX,2018,8.2,HMC
+6,acura,RDX,2018,8.3,HMC
+7,acura,ILX,2013,7.4,HMC
+8,acura,MDX,2013,8.5,HMC
+9,acura,RDX,2013,7.5,HMC
+10,acura,MDX,2017,7.9,HMC
+11,acura,RDX,2015,8.1,HMC
+12,acura,RDX,2012,8.6,HMC
+13,acura,MDX,2015,8.2,HMC
+14,acura,MDX,2019,7.9,HMC
+15,acura,ILX,2019,6.2,HMC
+16,acura,ILX,2014,7.9,HMC
+17,acura,MDX,2014,7.7,HMC
+18,acura,RDX,2014,8.1,HMC
+19,acura,ILX,2015,7.1,HMC
+20,acura,RDX,2019,7.9,HMC
+21,acura,MDX,2012,8.2,HMC
+22,acura,ILX,2022,6.7,HMC
+23,acura,RDX,2010,9.0,HMC
+24,acura,MDX,2010,7.8,HMC
+25,acura,RDX,2016,8.1,HMC
+26,acura,MDX,2016,8.2,HMC
+27,acura,RDX,2021,8.5,HMC
+28,acura,ILX,2021,6.8,HMC
+29,acura,MDX,2011,8.2,HMC
+30,acura,RDX,2011,8.8,HMC
+31,acura,RDX,2017,8.3,HMC
+32,acura,ILX,2016,7.4,HMC
+33,acura,RDX,2022,8.4,HMC
+34,audi,A6,2015,8.2,VOW3.DE
+35,audi,Q5,2016,7.6,VOW3.DE
+36,audi,A4,2017,8.3,VOW3.DE
+37,audi,Q5,2017,7.7,VOW3.DE
+38,audi,A6,2016,8.2,VOW3.DE
+39,audi,A4,2010,8.0,VOW3.DE
+40,audi,A6,2017,8.1,VOW3.DE
+41,audi,A4,2016,8.3,VOW3.DE
+42,audi,A6,2010,9.1,VOW3.DE
+43,audi,Q5,2011,8.0,VOW3.DE
+44,audi,A4,2011,7.9,VOW3.DE
+45,audi,A6,2011,8.2,VOW3.DE
+46,audi,Q5,2012,8.0,VOW3.DE
+47,audi,A4,2012,8.5,VOW3.DE
+48,audi,A6,2012,7.8,VOW3.DE
+49,audi,Q5,2013,8.2,VOW3.DE
+50,audi,A4,2013,8.8,VOW3.DE
+51,audi,A6,2013,7.8,VOW3.DE
+52,audi,A4,2014,8.0,VOW3.DE
+53,audi,A6,2014,8.3,VOW3.DE
+54,audi,Q5,2015,7.6,VOW3.DE
+55,audi,A4,2015,8.5,VOW3.DE
+56,audi,Q5,2014,7.7,VOW3.DE
+57,audi,Q5,2010,8.5,VOW3.DE
+58,audi,A6,2018,8.4,VOW3.DE
+59,audi,A6,2019,7.8,VOW3.DE
+60,audi,Q5,2021,8.2,VOW3.DE
+61,audi,A6,2021,8.2,VOW3.DE
+62,audi,A6,2020,7.9,VOW3.DE
+63,audi,Q5,2022,8.2,VOW3.DE
+64,audi,Q5,2019,8.5,VOW3.DE
+65,audi,A4,2018,8.4,VOW3.DE
+66,audi,Q5,2018,8.0,VOW3.DE
+67,audi,A4,2019,8.5,VOW3.DE
+68,audi,Q5,2020,8.0,VOW3.DE
+69,audi,A4,2022,8.6,VOW3.DE
+70,audi,A6,2022,8.2,VOW3.DE
+71,audi,A4,2020,8.6,VOW3.DE
+72,lexus,RX 350,2013,8.9,TM
+73,lexus,RX 350,2017,8.5,TM
+74,lexus,ES,2012,8.8,TM
+75,lexus,IS,2012,8.2,TM
+76,lexus,ES,2013,8.3,TM
+77,lexus,ES,2019,8.1,TM
+78,lexus,RX 350,2012,9.1,TM
+79,lexus,RX 350,2020,7.9,TM
+80,lexus,IS,2020,7.5,TM
+81,lexus,IS,2017,7.9,TM
+82,lexus,RX 350,2011,9.1,TM
+83,lexus,ES,2011,9.1,TM
+84,lexus,IS,2011,8.5,TM
+85,lexus,RX 350,2021,8.0,TM
+86,lexus,IS,2021,7.3,TM
+87,lexus,ES,2021,8.3,TM
+88,lexus,ES,2010,9.2,TM
+89,lexus,IS,2010,8.3,TM
+90,lexus,RX 350,2010,9.2,TM
+91,lexus,RX 350,2022,8.0,TM
+92,lexus,IS,2022,7.4,TM
+93,lexus,ES,2022,8.2,TM
+94,lexus,ES,2020,7.9,TM
+95,lexus,IS,2019,7.5,TM
+96,lexus,IS,2013,8.1,TM
+97,lexus,RX 350,2014,8.9,TM
+98,lexus,RX 350,2015,8.8,TM
+99,lexus,RX 350,2018,8.0,TM
+100,lexus,IS,2018,8.1,TM
+101,lexus,ES,2018,8.5,TM
+102,lexus,RX 350,2019,8.5,TM
+103,lexus,IS,2015,8.4,TM
+104,lexus,RX 350,2016,8.8,TM
+105,lexus,ES,2015,8.3,TM
+106,lexus,ES,2017,8.7,TM
+107,lexus,IS,2016,8.5,TM
+108,lexus,ES,2016,8.8,TM
+109,lexus,IS,2014,8.0,TM
+110,lexus,ES,2014,8.6,TM
+111,mercedes-benz,GLS,2016,8.0,DAI.DE
+112,mercedes-benz,c.class,2015,7.9,DAI.DE
+113,mercedes-benz,c.class,2021,8.4,DAI.DE
+114,mercedes-benz,e.class,2021,8.7,DAI.DE
+115,mercedes-benz,GLS,2010,7.5,DAI.DE
+116,mercedes-benz,GLS,2015,7.7,DAI.DE
+117,mercedes-benz,GLS,2017,7.9,DAI.DE
+118,mercedes-benz,e.class,2017,8.0,DAI.DE
+119,mercedes-benz,e.class,2016,8.3,DAI.DE
+120,mercedes-benz,c.class,2016,8.1,DAI.DE
+121,mercedes-benz,c.class,2017,7.7,DAI.DE
+122,mercedes-benz,e.class,2010,9.0,DAI.DE
+123,mercedes-benz,GLS,2021,8.1,DAI.DE
+124,mercedes-benz,e.class,2015,7.9,DAI.DE
+125,mercedes-benz,e.class,2018,7.6,DAI.DE
+126,mercedes-benz,GLS,2013,7.4,DAI.DE
+127,mercedes-benz,e.class,2013,8.8,DAI.DE
+128,mercedes-benz,c.class,2013,7.8,DAI.DE
+129,mercedes-benz,c.class,2014,8.2,DAI.DE
+130,mercedes-benz,c.class,2019,7.9,DAI.DE
+131,mercedes-benz,e.class,2019,8.0,DAI.DE
+132,mercedes-benz,GLS,2019,8.0,DAI.DE
+133,mercedes-benz,e.class,2014,8.4,DAI.DE
+134,mercedes-benz,c.class,2018,7.8,DAI.DE
+135,mercedes-benz,e.class,2022,8.7,DAI.DE
+136,mercedes-benz,e.class,2012,9.1,DAI.DE
+137,mercedes-benz,c.class,2012,7.9,DAI.DE
+138,mercedes-benz,GLS,2018,7.6,DAI.DE
+139,mercedes-benz,c.class,2020,8.0,DAI.DE
+140,mercedes-benz,e.class,2020,7.9,DAI.DE
+141,mercedes-benz,GLS,2020,7.1,DAI.DE
+142,mercedes-benz,GLS,2011,7.9,DAI.DE
+143,mercedes-benz,e.class,2011,8.8,DAI.DE
+144,mercedes-benz,GLS,2012,7.8,DAI.DE
+145,mercedes-benz,GLS,2014,7.7,DAI.DE
+146,mercedes-benz,GLS,2022,8.2,DAI.DE
+147,bmw,x5,2022,8.4,BMW.DE
+148,bmw,x3,2019,8.6,BMW.DE
+149,bmw,5 series,2019,7.7,BMW.DE
+150,bmw,x3,2013,8.8,BMW.DE
+151,bmw,x5,2013,7.7,BMW.DE
+152,bmw,x5,2020,7.6,BMW.DE
+153,bmw,x3,2020,8.0,BMW.DE
+154,bmw,5 series,2012,8.2,BMW.DE
+155,bmw,x5,2019,7.7,BMW.DE
+156,bmw,x3,2012,8.6,BMW.DE
+157,bmw,x5,2012,7.4,BMW.DE
+158,bmw,x5,2021,8.4,BMW.DE
+159,bmw,x3,2021,8.5,BMW.DE
+160,bmw,5 series,2021,8.1,BMW.DE
+161,bmw,5 series,2020,7.9,BMW.DE
+162,bmw,x5,2007,7.7,BMW.DE
+163,bmw,x3,2008,7.9,BMW.DE
+164,bmw,x3,2022,8.4,BMW.DE
+165,bmw,x5,2016,8.1,BMW.DE
+166,bmw,x3,2016,8.6,BMW.DE
+167,bmw,5 series,2016,8.0,BMW.DE
+168,bmw,x5,2017,8.1,BMW.DE
+169,bmw,x3,2017,8.3,BMW.DE
+170,bmw,5 series,2017,8.0,BMW.DE
+171,bmw,5 series,2015,8.0,BMW.DE
+172,bmw,x3,2015,8.6,BMW.DE
+173,bmw,x5,2015,8.3,BMW.DE
+174,bmw,x5,2009,7.2,BMW.DE
+175,bmw,x3,2009,8.9,BMW.DE
+176,bmw,5 series,2009,8.0,BMW.DE
+177,bmw,x5,2018,8.1,BMW.DE
+178,bmw,x3,2018,8.3,BMW.DE
+179,bmw,5 series,2018,8.1,BMW.DE
+180,bmw,5 series,2014,8.1,BMW.DE
+181,bmw,x3,2014,8.1,BMW.DE
+182,bmw,x5,2014,8.0,BMW.DE
+183,bmw,5 series,2008,9.6,BMW.DE
+184,bmw,x5,2008,8.0,BMW.DE
+185,bmw,5 series,2022,8.2,BMW.DE
+186,bmw,5 series,2013,7.9,BMW.DE
+187,bmw,x5,2010,7.3,BMW.DE
+188,bmw,x3,2010,8.2,BMW.DE
+189,bmw,x5,2011,7.4,BMW.DE
+190,bmw,x3,2011,8.0,BMW.DE
+191,bmw,5 series,2010,8.4,BMW.DE
+192,bmw,5 series,2011,8.4,BMW.DE
+193,bmw,5 series,2007,9.6,BMW.DE
+194,bmw,x3,2007,7.5,BMW.DE
+195,buick,Enclave,2010,8.3,GM
+196,buick,Regal,2017,7.5,GM
+197,buick,Regal,2020,7.6,GM
+198,buick,Enclave,2020,8.0,GM
+199,buick,Regal,2014,8.0,GM
+200,buick,Enclave,2014,8.5,GM
+201,buick,Enclave,2017,8.2,GM
+202,buick,LaCrosse,2009,7.8,GM
+203,buick,Enclave,2009,8.3,GM
+204,buick,LaCrosse,2017,8.6,GM
+205,buick,LaCrosse,2008,7.5,GM
+206,buick,LaCrosse,2018,8.8,GM
+207,buick,Regal,2018,8.0,GM
+208,buick,Enclave,2013,9.0,GM
+209,buick,Regal,2013,8.4,GM
+210,buick,LaCrosse,2013,8.6,GM
+211,buick,LaCrosse,2010,8.4,GM
+212,buick,Enclave,2022,8.3,GM
+213,buick,Enclave,2018,8.0,GM
+214,buick,Regal,2019,8.0,GM
+215,buick,LaCrosse,2019,8.1,GM
+216,buick,LaCrosse,2012,8.2,GM
+217,buick,Regal,2012,8.0,GM
+218,buick,Enclave,2012,8.6,GM
+219,buick,Enclave,2019,7.9,GM
+220,buick,LaCrosse,2007,7.5,GM
+221,buick,LaCrosse,2014,9.0,GM
+222,buick,Enclave,2021,8.0,GM
+223,buick,Enclave,2016,8.4,GM
+224,buick,Regal,2016,8.1,GM
+225,buick,LaCrosse,2016,9.0,GM
+226,buick,Enclave,2015,8.5,GM
+227,buick,Regal,2015,8.2,GM
+228,buick,LaCrosse,2015,8.9,GM
+229,buick,Enclave,2008,8.6,GM
+230,buick,Enclave,2011,8.6,GM
+231,buick,Regal,2011,8.1,GM
+232,buick,LaCrosse,2011,9.2,GM
+233,cadillac,Escalade,2013,8.0,GM
+234,cadillac,CTS,2018,7.7,GM
+235,cadillac,ATS,2018,7.4,GM
+236,cadillac,Escalade,2021,8.3,GM
+237,cadillac,Escalade,2007,9.1,GM
+238,cadillac,CTS,2007,8.0,GM
+239,cadillac,CTS,2010,8.8,GM
+240,cadillac,Escalade,2012,8.6,GM
+241,cadillac,CTS,2012,8.2,GM
+242,cadillac,Escalade,2015,8.2,GM
+243,cadillac,CTS,2019,7.6,GM
+244,cadillac,ATS,2019,7.1,GM
+245,cadillac,Escalade,2019,6.9,GM
+246,cadillac,CTS,2008,9.0,GM
+247,cadillac,CTS,2015,8.6,GM
+248,cadillac,CTS,2013,8.4,GM
+249,cadillac,Escalade,2010,8.3,GM
+250,cadillac,ATS,2015,7.8,GM
+251,cadillac,Escalade,2008,9.3,GM
+252,cadillac,ATS,2013,7.3,GM
+253,cadillac,Escalade,2018,7.2,GM
+254,cadillac,CTS,2011,8.8,GM
+255,cadillac,Escalade,2020,6.7,GM
+256,cadillac,Escalade,2022,8.5,GM
+257,cadillac,CTS,2014,8.4,GM
+258,cadillac,ATS,2014,7.3,GM
+259,cadillac,Escalade,2014,8.0,GM
+260,cadillac,Escalade,2016,7.6,GM
+261,cadillac,ATS,2016,7.5,GM
+262,cadillac,CTS,2016,8.2,GM
+263,cadillac,CTS,2009,8.7,GM
+264,cadillac,Escalade,2011,9.1,GM
+265,cadillac,Escalade,2017,7.1,GM
+266,cadillac,ATS,2017,7.9,GM
+267,cadillac,CTS,2017,7.9,GM
+268,cadillac,Escalade,2009,9.0,GM
+269,chevrolet,Malibu,2015,8.6,GM
+270,chevrolet,Malibu,2008,9.2,GM
+271,chevrolet,Silverado 1500,2011,8.7,GM
+272,chevrolet,Silverado 1500,2008,9.2,GM
+273,chevrolet,Tahoe,2015,8.5,GM
+274,chevrolet,Silverado 1500,2015,8.5,GM
+275,chevrolet,Malibu,2022,7.3,GM
+276,chevrolet,Silverado 1500,2018,8.2,GM
+277,chevrolet,Silverado 1500,2014,8.9,GM
+278,chevrolet,Tahoe,2009,8.2,GM
+279,chevrolet,Malibu,2018,8.1,GM
+280,chevrolet,Tahoe,2018,8.4,GM
+281,chevrolet,Tahoe,2014,8.8,GM
+282,chevrolet,Malibu,2009,8.4,GM
+283,chevrolet,Malibu,2016,8.6,GM
+284,chevrolet,Tahoe,2016,8.5,GM
+285,chevrolet,Silverado 1500,2017,8.7,GM
+286,chevrolet,Silverado 1500,2007,9.0,GM
+287,chevrolet,Tahoe,2017,8.4,GM
+288,chevrolet,Malibu,2017,8.6,GM
+289,chevrolet,Silverado 1500,2016,8.9,GM
+290,chevrolet,Malibu,2007,7.8,GM
+291,chevrolet,Tahoe,2007,9.4,GM
+292,chevrolet,Silverado 1500,2009,8.7,GM
+293,chevrolet,Malibu,2014,8.2,GM
+294,chevrolet,Tahoe,2011,8.1,GM
+295,chevrolet,Tahoe,2019,7.9,GM
+296,chevrolet,Silverado 1500,2013,7.9,GM
+297,chevrolet,Silverado 1500,2020,8.2,GM
+298,chevrolet,Tahoe,2020,7.4,GM
+299,chevrolet,Malibu,2020,7.9,GM
+300,chevrolet,Silverado 1500,2019,8.4,GM
+301,chevrolet,Malibu,2012,8.2,GM
+302,chevrolet,Tahoe,2012,8.4,GM
+303,chevrolet,Silverado 1500,2012,8.9,GM
+304,chevrolet,Malibu,2010,8.4,GM
+305,chevrolet,Tahoe,2010,9.1,GM
+306,chevrolet,Silverado 1500,2010,8.8,GM
+307,chevrolet,Silverado 1500,2021,7.9,GM
+308,chevrolet,Tahoe,2021,8.0,GM
+309,chevrolet,Malibu,2021,7.5,GM
+310,chevrolet,Tahoe,2022,8.3,GM
+311,chevrolet,Malibu,2011,8.8,GM
+312,chevrolet,Tahoe,2013,8.8,GM
+313,chevrolet,Malibu,2013,7.7,GM
+314,chevrolet,Tahoe,2008,9.4,GM
+315,chevrolet,Malibu,2019,7.8,GM
+316,ford,Fusion,2013,8.0,F
+317,ford,Explorer,2019,7.3,F
+318,ford,F150,2008,8.4,F
+319,ford,F150,2010,8.4,F
+320,ford,Fusion,2010,9.4,F
+321,ford,Fusion,2008,9.0,F
+322,ford,Explorer,2008,8.0,F
+323,ford,F150,2012,7.9,F
+324,ford,Fusion,2012,8.3,F
+325,ford,F150,2009,8.9,F
+326,ford,Fusion,2009,9.1,F
+327,ford,Explorer,2009,8.7,F
+328,ford,F150,2013,8.3,F
+329,ford,Explorer,2012,7.8,F
+330,ford,Fusion,2017,8.1,F
+331,ford,Explorer,2017,7.7,F
+332,ford,Fusion,2019,8.2,F
+333,ford,F150,2019,8.8,F
+334,ford,F150,2015,8.7,F
+335,ford,Fusion,2015,8.0,F
+336,ford,F150,2011,7.9,F
+337,ford,Fusion,2011,8.2,F
+338,ford,Explorer,2011,8.3,F
+339,ford,F150,2022,8.7,F
+340,ford,F150,2016,8.6,F
+341,ford,Fusion,2016,8.2,F
+342,ford,Explorer,2020,7.5,F
+343,ford,Explorer,2016,7.6,F
+344,ford,F150,2021,8.7,F
+345,ford,Explorer,2022,7.7,F
+346,ford,F150,2007,8.2,F
+347,ford,Fusion,2007,8.9,F
+348,ford,Explorer,2007,8.2,F
+349,ford,Explorer,2015,7.2,F
+350,ford,Explorer,2021,7.7,F
+351,ford,Fusion,2020,8.3,F
+352,ford,F150,2017,8.5,F
+353,ford,Explorer,2010,7.8,F
+354,ford,Explorer,2018,7.6,F
+355,ford,Fusion,2018,8.3,F
+356,ford,F150,2018,8.3,F
+357,ford,F150,2020,8.7,F
+358,ford,Fusion,2014,8.0,F
+359,ford,F150,2014,8.1,F
+360,ford,Explorer,2014,7.6,F
+361,ford,Explorer,2013,7.2,F
+362,honda,Accord,2015,8.0,HMC
+363,honda,CRV,2015,8.1,HMC
+364,honda,Accord,2018,8.4,HMC
+365,honda,Pilot,2015,7.4,HMC
+366,honda,CRV,2022,8.8,HMC
+367,honda,Pilot,2009,7.9,HMC
+368,honda,Accord,2022,8.9,HMC
+369,honda,CRV,2010,9.1,HMC
+370,honda,Accord,2019,8.1,HMC
+371,honda,Accord,2021,8.9,HMC
+372,honda,Pilot,2016,8.2,HMC
+373,honda,CRV,2016,8.3,HMC
+374,honda,Accord,2016,8.0,HMC
+375,honda,CRV,2018,8.4,HMC
+376,honda,Pilot,2018,8.1,HMC
+377,honda,CRV,2021,8.8,HMC
+378,honda,Pilot,2021,8.5,HMC
+379,honda,Pilot,2007,9.2,HMC
+380,honda,Pilot,2011,7.1,HMC
+381,honda,CRV,2011,9.0,HMC
+382,honda,Accord,2011,8.5,HMC
+383,honda,Pilot,2019,7.8,HMC
+384,honda,CRV,2019,8.5,HMC
+385,honda,Accord,2013,7.7,HMC
+386,honda,Pilot,2010,7.8,HMC
+387,honda,Accord,2007,9.3,HMC
+388,honda,Pilot,2022,8.4,HMC
+389,honda,Accord,2014,8.0,HMC
+390,honda,Pilot,2013,7.6,HMC
+391,honda,Accord,2020,8.7,HMC
+392,honda,Pilot,2017,8.2,HMC
+393,honda,CRV,2017,8.6,HMC
+394,honda,Accord,2017,7.9,HMC
+395,honda,CRV,2008,9.2,HMC
+396,honda,CRV,2020,8.5,HMC
+397,honda,Pilot,2020,8.2,HMC
+398,honda,CRV,2007,9.2,HMC
+399,honda,Pilot,2012,7.6,HMC
+400,honda,CRV,2012,8.3,HMC
+401,honda,Accord,2012,8.5,HMC
+402,honda,CRV,2009,8.7,HMC
+403,honda,Accord,2009,8.4,HMC
+404,honda,CRV,2014,8.5,HMC
+405,honda,CRV,2013,8.5,HMC
+406,honda,Pilot,2008,9.3,HMC
+407,honda,Pilot,2014,7.9,HMC
+408,honda,Accord,2008,9.2,HMC
+409,honda,Accord,2010,8.4,HMC
+410,hyundai,Sonata,2008,8.4,HYMTF
+411,hyundai,Sonata,2007,8.6,HYMTF
+412,hyundai,Santa Fe,2018,8.5,HYMTF
+413,hyundai,Sonata,2022,8.2,HYMTF
+414,hyundai,Santa Fe,2007,8.0,HYMTF
+415,hyundai,Santa Fe,2019,8.5,HYMTF
+416,hyundai,Sonata,2017,8.7,HYMTF
+417,hyundai,Santa Fe,2017,8.1,HYMTF
+418,hyundai,Tucson,2017,8.6,HYMTF
+419,hyundai,Tucson,2019,7.9,HYMTF
+420,hyundai,Tucson,2018,8.6,HYMTF
+421,hyundai,Tucson,2007,7.6,HYMTF
+422,hyundai,Sonata,2021,8.1,HYMTF
+423,hyundai,Santa Fe,2021,8.3,HYMTF
+424,hyundai,Tucson,2008,7.7,HYMTF
+425,hyundai,Santa Fe,2008,8.3,HYMTF
+426,hyundai,Sonata,2018,8.4,HYMTF
+427,hyundai,Santa Fe,2022,8.2,HYMTF
+428,hyundai,Tucson,2022,9.0,HYMTF
+429,hyundai,Santa Fe,2020,8.3,HYMTF
+430,hyundai,Sonata,2016,8.3,HYMTF
+431,hyundai,Santa Fe,2016,8.5,HYMTF
+432,hyundai,Tucson,2016,9.0,HYMTF
+433,hyundai,Tucson,2020,8.0,HYMTF
+434,hyundai,Sonata,2019,8.3,HYMTF
+435,hyundai,Tucson,2021,8.0,HYMTF
+436,hyundai,Sonata,2020,8.0,HYMTF
+437,hyundai,Sonata,2010,9.0,HYMTF
+438,hyundai,Sonata,2015,8.7,HYMTF
+439,hyundai,Sonata,2013,9.0,HYMTF
+440,hyundai,Tucson,2011,8.0,HYMTF
+441,hyundai,Sonata,2012,7.9,HYMTF
+442,hyundai,Santa Fe,2011,8.0,HYMTF
+443,hyundai,Sonata,2011,8.0,HYMTF
+444,hyundai,Santa Fe,2013,7.8,HYMTF
+445,hyundai,Santa Fe,2012,7.7,HYMTF
+446,hyundai,Tucson,2012,8.4,HYMTF
+447,hyundai,Tucson,2015,8.6,HYMTF
+448,hyundai,Santa Fe,2015,8.5,HYMTF
+449,hyundai,Santa Fe,2014,8.5,HYMTF
+450,hyundai,Santa Fe,2010,7.6,HYMTF
+451,hyundai,Tucson,2014,8.2,HYMTF
+452,hyundai,Tucson,2010,7.8,HYMTF
+453,hyundai,Tucson,2009,7.2,HYMTF
+454,hyundai,Tucson,2013,8.5,HYMTF
+455,hyundai,Sonata,2009,8.2,HYMTF
+456,hyundai,Sonata,2014,8.6,HYMTF
+457,hyundai,Santa Fe,2009,8.5,HYMTF
+458,kia,Sorento,2012,8.3,000270.KS
+459,kia,Sorento,2020,8.1,000270.KS
+460,kia,Sportage,2020,8.3,000270.KS
+461,kia,Rio,2012,8.6,000270.KS
+462,kia,Sportage,2017,8.6,000270.KS
+463,kia,Sorento,2017,8.6,000270.KS
+464,kia,Rio,2020,8.1,000270.KS
+465,kia,Sorento,2018,8.5,000270.KS
+466,kia,Rio,2013,9.0,000270.KS
+467,kia,Sportage,2009,8.0,000270.KS
+468,kia,Sportage,2014,8.2,000270.KS
+469,kia,Sorento,2014,8.1,000270.KS
+470,kia,Rio,2014,8.1,000270.KS
+471,kia,Sportage,2008,8.1,000270.KS
+472,kia,Sorento,2008,8.4,000270.KS
+473,kia,Rio,2008,7.7,000270.KS
+474,kia,Rio,2017,8.4,000270.KS
+475,kia,Sportage,2018,8.4,000270.KS
+476,kia,Sorento,2011,8.0,000270.KS
+477,kia,Rio,2011,7.8,000270.KS
+478,kia,Sportage,2007,7.7,000270.KS
+479,kia,Sorento,2007,8.7,000270.KS
+480,kia,Rio,2007,7.7,000270.KS
+481,kia,Sportage,2012,8.8,000270.KS
+482,kia,Rio,2018,8.8,000270.KS
+483,kia,Sportage,2011,8.8,000270.KS
+484,kia,Sportage,2015,8.0,000270.KS
+485,kia,Sorento,2013,7.9,000270.KS
+486,kia,Rio,2015,8.8,000270.KS
+487,kia,Rio,2019,8.1,000270.KS
+488,kia,Sorento,2019,8.5,000270.KS
+489,kia,Sportage,2019,8.5,000270.KS
+490,kia,Sportage,2021,8.4,000270.KS
+491,kia,Sportage,2013,8.2,000270.KS
+492,kia,Sorento,2015,8.0,000270.KS
+493,kia,Sportage,2022,8.4,000270.KS
+494,kia,Rio,2016,7.9,000270.KS
+495,kia,Sportage,2016,8.2,000270.KS
+496,kia,Sorento,2021,8.1,000270.KS
+497,kia,Rio,2021,8.1,000270.KS
+498,kia,Rio,2010,7.3,000270.KS
+499,kia,Sportage,2010,8.4,000270.KS
+500,kia,Sorento,2016,8.1,000270.KS
+501,kia,Sorento,2022,8.0,000270.KS
+502,kia,Rio,2009,7.2,000270.KS
+503,mazda,Mazda3,2022,8.6,7261.T
+504,mazda,Mazda6,2011,8.1,7261.T
+505,mazda,Mazda3,2011,8.4,7261.T
+506,mazda,MX5 Miata,2009,8.8,7261.T
+507,mazda,Mazda6,2009,7.9,7261.T
+508,mazda,Mazda3,2009,7.7,7261.T
+509,mazda,MX5 Miata,2008,8.9,7261.T
+510,mazda,Mazda6,2008,8.4,7261.T
+511,mazda,Mazda3,2008,8.7,7261.T
+512,mazda,Mazda3,2021,8.6,7261.T
+513,mazda,Mazda6,2021,8.6,7261.T
+514,mazda,Mazda6,2019,7.9,7261.T
+515,mazda,MX5 Miata,2021,8.7,7261.T
+516,mazda,Mazda6,2014,7.9,7261.T
+517,mazda,Mazda3,2014,8.5,7261.T
+518,mazda,MX5 Miata,2013,8.3,7261.T
+519,mazda,Mazda6,2013,8.4,7261.T
+520,mazda,Mazda3,2013,8.7,7261.T
+521,mazda,MX5 Miata,2010,9.1,7261.T
+522,mazda,Mazda6,2010,8.4,7261.T
+523,mazda,Mazda3,2010,8.5,7261.T
+524,mazda,Mazda6,2015,8.2,7261.T
+525,mazda,Mazda3,2015,8.5,7261.T
+526,mazda,MX5 Miata,2014,8.0,7261.T
+527,mazda,MX5 Miata,2007,9.0,7261.T
+528,mazda,MX5 Miata,2011,7.6,7261.T
+529,mazda,Mazda6,2007,8.3,7261.T
+530,mazda,MX5 Miata,2020,8.6,7261.T
+531,mazda,Mazda6,2020,8.6,7261.T
+532,mazda,Mazda3,2020,8.6,7261.T
+533,mazda,Mazda3,2019,8.3,7261.T
+534,mazda,MX5 Miata,2015,8.0,7261.T
+535,mazda,Mazda3,2012,8.8,7261.T
+536,mazda,Mazda6,2012,8.1,7261.T
+537,mazda,Mazda3,2017,8.3,7261.T
+538,mazda,Mazda6,2017,8.1,7261.T
+539,mazda,Mazda3,2007,8.7,7261.T
+540,mazda,MX5 Miata,2012,8.3,7261.T
+541,mazda,MX5 Miata,2017,8.2,7261.T
+542,mazda,Mazda3,2018,8.4,7261.T
+543,mazda,Mazda3,2016,8.7,7261.T
+544,mazda,Mazda6,2018,8.0,7261.T
+545,mazda,Mazda6,2016,8.4,7261.T
+546,mazda,MX5 Miata,2016,8.3,7261.T
+547,mazda,MX5 Miata,2019,8.5,7261.T
+548,mazda,MX5 Miata,2018,8.7,7261.T
+549,nissan,Murano,2022,7.8,7201.T
+550,nissan,Murano,2013,8.7,7201.T
+551,nissan,Murano,2019,7.8,7201.T
+552,nissan,Pathfinder,2013,7.2,7201.T
+553,nissan,Altima,2018,8.0,7201.T
+554,nissan,Murano,2009,8.9,7201.T
+555,nissan,Pathfinder,2019,7.4,7201.T
+556,nissan,Altima,2019,7.7,7201.T
+557,nissan,Altima,2022,7.9,7201.T
+558,nissan,Altima,2009,7.8,7201.T
+559,nissan,Murano,2018,8.1,7201.T
+560,nissan,Pathfinder,2018,7.7,7201.T
+561,nissan,Altima,2013,8.2,7201.T
+562,nissan,Pathfinder,2009,7.6,7201.T
+563,nissan,Pathfinder,2008,7.7,7201.T
+564,nissan,Altima,2011,8.1,7201.T
+565,nissan,Pathfinder,2011,7.4,7201.T
+566,nissan,Altima,2008,8.5,7201.T
+567,nissan,Murano,2010,9.0,7201.T
+568,nissan,Pathfinder,2010,7.7,7201.T
+569,nissan,Altima,2015,8.2,7201.T
+570,nissan,Altima,2010,8.2,7201.T
+571,nissan,Murano,2007,9.0,7201.T
+572,nissan,Pathfinder,2016,7.3,7201.T
+573,nissan,Altima,2016,8.2,7201.T
+574,nissan,Pathfinder,2015,7.3,7201.T
+575,nissan,Murano,2015,8.2,7201.T
+576,nissan,Altima,2021,8.0,7201.T
+577,nissan,Murano,2021,7.8,7201.T
+578,nissan,Murano,2016,8.3,7201.T
+579,nissan,Murano,2011,8.9,7201.T
+580,nissan,Altima,2017,8.2,7201.T
+581,nissan,Altima,2012,8.7,7201.T
+582,nissan,Altima,2014,8.2,7201.T
+583,nissan,Pathfinder,2014,7.4,7201.T
+584,nissan,Murano,2020,8.1,7201.T
+585,nissan,Pathfinder,2020,7.5,7201.T
+586,nissan,Altima,2020,8.1,7201.T
+587,nissan,Murano,2017,8.3,7201.T
+588,nissan,Pathfinder,2017,7.5,7201.T
+589,nissan,Murano,2014,8.3,7201.T
+590,nissan,Pathfinder,2012,7.3,7201.T
+591,nissan,Murano,2012,8.8,7201.T
+592,subaru,Legacy,2020,8.1,7270.T
+593,subaru,Legacy,2012,8.0,7270.T
+594,subaru,Impreza,2021,7.9,7270.T
+595,subaru,Forester,2012,8.5,7270.T
+596,subaru,Impreza,2007,8.3,7270.T
+597,subaru,Legacy,2009,7.8,7270.T
+598,subaru,Forester,2009,8.2,7270.T
+599,subaru,Forester,2020,8.2,7270.T
+600,subaru,Forester,2007,8.2,7270.T
+601,subaru,Legacy,2011,8.0,7270.T
+602,subaru,Forester,2011,8.2,7270.T
+603,subaru,Impreza,2011,8.3,7270.T
+604,subaru,Legacy,2019,7.4,7270.T
+605,subaru,Impreza,2019,7.7,7270.T
+606,subaru,Impreza,2020,8.0,7270.T
+607,subaru,Impreza,2009,7.7,7270.T
+608,subaru,Impreza,2012,8.3,7270.T
+609,subaru,Forester,2019,7.8,7270.T
+610,subaru,Forester,2013,7.5,7270.T
+611,subaru,Impreza,2018,7.9,7270.T
+612,subaru,Impreza,2014,8.1,7270.T
+613,subaru,Forester,2014,8.1,7270.T
+614,subaru,Legacy,2014,7.8,7270.T
+615,subaru,Forester,2022,8.3,7270.T
+616,subaru,Legacy,2022,8.1,7270.T
+617,subaru,Legacy,2017,7.8,7270.T
+618,subaru,Forester,2017,7.8,7270.T
+619,subaru,Impreza,2017,8.0,7270.T
+620,subaru,Impreza,2013,8.1,7270.T
+621,subaru,Forester,2018,8.2,7270.T
+622,subaru,Impreza,2008,7.2,7270.T
+623,subaru,Legacy,2008,8.6,7270.T
+624,subaru,Legacy,2010,7.9,7270.T
+625,subaru,Forester,2010,9.0,7270.T
+626,subaru,Impreza,2010,7.5,7270.T
+627,subaru,Legacy,2016,7.9,7270.T
+628,subaru,Forester,2016,8.0,7270.T
+629,subaru,Impreza,2016,7.7,7270.T
+630,subaru,Impreza,2015,8.0,7270.T
+631,subaru,Forester,2015,8.0,7270.T
+632,subaru,Legacy,2015,7.7,7270.T
+633,subaru,Forester,2008,8.4,7270.T
+634,subaru,Legacy,2018,7.6,7270.T
+635,subaru,Legacy,2021,8.2,7270.T
+636,subaru,Forester,2021,8.4,7270.T
+637,subaru,Legacy,2013,8.2,7270.T
+638,subaru,Impreza,2022,7.8,7270.T
+639,tesla,Model S,2017,8.9,TSLA
+640,tesla,Model 3,2021,8.8,TSLA
+641,tesla,Model S,2021,8.9,TSLA
+642,tesla,Model S,2014,8.9,TSLA
+643,tesla,Model S,2016,9.4,TSLA
+644,tesla,Model X,2020,7.0,TSLA
+645,tesla,Model 3,2020,8.5,TSLA
+646,tesla,Model S,2020,7.9,TSLA
+647,tesla,Model X,2016,9.4,TSLA
+648,tesla,Model X,2017,8.2,TSLA
+649,tesla,Model X,2018,7.9,TSLA
+650,tesla,Model S,2013,8.9,TSLA
+651,tesla,Model S,2015,9.3,TSLA
+652,tesla,Model X,2019,7.5,TSLA
+653,tesla,Model S,2019,9.3,TSLA
+654,tesla,Model 3,2019,8.8,TSLA
+655,tesla,Model 3,2018,8.7,TSLA
+656,tesla,Model S,2018,9.5,TSLA
+657,tesla,Model 3,2022,8.8,TSLA
+658,tesla,Model S,2022,8.9,TSLA
+659,tesla,Model X,2022,8.4,TSLA
+660,toyota,Prius,2013,8.8,TM
+661,toyota,Camry,2016,8.8,TM
+662,toyota,4Runner,2015,6.8,TM
+663,toyota,Prius,2015,8.4,TM
+664,toyota,4Runner,2007,8.5,TM
+665,toyota,Prius,2007,8.4,TM
+666,toyota,Camry,2015,9.0,TM
+667,toyota,Camry,2011,8.9,TM
+668,toyota,Camry,2007,8.9,TM
+669,toyota,Camry,2013,8.3,TM
+670,toyota,Prius,2016,8.9,TM
+671,toyota,Camry,2021,8.6,TM
+672,toyota,Prius,2021,7.8,TM
+673,toyota,4Runner,2021,7.1,TM
+674,toyota,Prius,2011,9.1,TM
+675,toyota,4Runner,2011,8.0,TM
+676,toyota,4Runner,2010,8.3,TM
+677,toyota,4Runner,2013,7.7,TM
+678,toyota,Prius,2018,8.1,TM
+679,toyota,Camry,2018,9.1,TM
+680,toyota,Camry,2017,8.9,TM
+681,toyota,Camry,2012,8.9,TM
+682,toyota,Prius,2012,8.9,TM
+683,toyota,Prius,2017,8.5,TM
+684,toyota,4Runner,2017,7.4,TM
+685,toyota,Camry,2022,8.5,TM
+686,toyota,4Runner,2012,7.8,TM
+687,toyota,Prius,2010,9.2,TM
+688,toyota,4Runner,2009,8.7,TM
+689,toyota,Prius,2009,8.9,TM
+690,toyota,Camry,2009,8.7,TM
+691,toyota,Camry,2019,8.7,TM
+692,toyota,Prius,2019,7.6,TM
+693,toyota,4Runner,2016,6.8,TM
+694,toyota,4Runner,2018,7.4,TM
+695,toyota,Camry,2014,8.8,TM
+696,toyota,Prius,2022,7.8,TM
+697,toyota,Camry,2010,8.3,TM
+698,toyota,4Runner,2008,8.3,TM
+699,toyota,Prius,2008,8.5,TM
+700,toyota,Camry,2008,9.0,TM
+701,toyota,4Runner,2020,7.2,TM
+702,toyota,4Runner,2014,7.2,TM
+703,toyota,Camry,2020,8.5,TM
+704,toyota,Prius,2020,7.7,TM
+705,toyota,4Runner,2022,7.1,TM
+706,toyota,4Runner,2019,7.5,TM
+707,toyota,Prius,2014,8.8,TM
+708,volkswagen,Jetta,2022,7.9,VOW3.DE
+709,volkswagen,Tiguan,2022,8.0,VOW3.DE
+710,volkswagen,Passat,2021,7.6,VOW3.DE
+711,volkswagen,Jetta,2021,7.8,VOW3.DE
+712,volkswagen,Tiguan,2021,8.1,VOW3.DE
+713,volkswagen,Passat,2010,7.7,VOW3.DE
+714,volkswagen,Jetta,2010,7.9,VOW3.DE
+715,volkswagen,Tiguan,2010,8.3,VOW3.DE
+716,volkswagen,Jetta,2016,7.9,VOW3.DE
+717,volkswagen,Jetta,2011,8.4,VOW3.DE
+718,volkswagen,Passat,2019,7.8,VOW3.DE
+719,volkswagen,Jetta,2019,7.7,VOW3.DE
+720,volkswagen,Tiguan,2019,8.1,VOW3.DE
+721,volkswagen,Tiguan,2011,8.3,VOW3.DE
+722,volkswagen,Jetta,2013,7.7,VOW3.DE
+723,volkswagen,Passat,2013,8.1,VOW3.DE
+724,volkswagen,Passat,2018,7.7,VOW3.DE
+725,volkswagen,Jetta,2018,7.5,VOW3.DE
+726,volkswagen,Tiguan,2018,8.1,VOW3.DE
+727,volkswagen,Passat,2017,7.8,VOW3.DE
+728,volkswagen,Jetta,2017,8.1,VOW3.DE
+729,volkswagen,Tiguan,2017,8.3,VOW3.DE
+730,volkswagen,Tiguan,2014,8.7,VOW3.DE
+731,volkswagen,Jetta,2014,7.8,VOW3.DE
+732,volkswagen,Passat,2014,7.5,VOW3.DE
+733,volkswagen,Jetta,2008,8.2,VOW3.DE
+734,volkswagen,Passat,2016,7.8,VOW3.DE
+735,volkswagen,Tiguan,2016,8.2,VOW3.DE
+736,volkswagen,Tiguan,2015,8.3,VOW3.DE
+737,volkswagen,Jetta,2015,7.9,VOW3.DE
+738,volkswagen,Passat,2015,8.0,VOW3.DE
+739,volkswagen,Passat,2008,8.5,VOW3.DE
+740,volkswagen,Tiguan,2009,8.0,VOW3.DE
+741,volkswagen,Jetta,2009,7.9,VOW3.DE
+742,volkswagen,Tiguan,2013,7.8,VOW3.DE
+743,volkswagen,Tiguan,2020,8.0,VOW3.DE
+744,volkswagen,Passat,2009,7.6,VOW3.DE
+745,volkswagen,Passat,2012,7.7,VOW3.DE
+746,volkswagen,Passat,2020,7.8,VOW3.DE
+747,volkswagen,Jetta,2020,8.1,VOW3.DE
+748,volkswagen,Jetta,2007,8.2,VOW3.DE
+749,volkswagen,Passat,2007,8.0,VOW3.DE
+750,volkswagen,Tiguan,2012,7.5,VOW3.DE
+751,volkswagen,Jetta,2012,8.4,VOW3.DE
+752,volvo car,XC60,2011,8.7,
+753,volvo car,XC90,2008,8.2,
+754,volvo car,XC90,2021,8.0,
+755,volvo car,S60,2008,7.9,
+756,volvo car,S60,2021,8.2,
+757,volvo car,XC60,2014,8.1,
+758,volvo car,S60,2014,7.9,
+759,volvo car,XC60,2022,8.4,
+760,volvo car,S60,2022,8.2,
+761,volvo car,XC90,2022,8.0,
+762,volvo car,XC60,2021,8.4,
+763,volvo car,XC60,2015,7.8,
+764,volvo car,XC90,2016,8.2,
+765,volvo car,S60,2016,7.6,
+766,volvo car,XC60,2016,7.9,
+767,volvo car,S60,2009,7.7,
+768,volvo car,XC90,2009,7.7,
+769,volvo car,XC90,2011,7.3,
+770,volvo car,S60,2011,8.2,
+771,volvo car,XC90,2014,7.3,
+772,volvo car,XC60,2012,8.2,
+773,volvo car,XC60,2017,7.8,
+774,volvo car,S60,2017,7.8,
+775,volvo car,S60,2012,8.0,
+776,volvo car,XC90,2012,7.6,
+777,volvo car,XC90,2019,7.3,
+778,volvo car,S60,2019,7.7,
+779,volvo car,XC90,2010,7.4,
+780,volvo car,XC60,2010,7.9,
+781,volvo car,XC60,2019,7.9,
+782,volvo car,XC90,2007,7.9,
+783,volvo car,S60,2007,8.2,
+784,volvo car,XC60,2013,7.6,
+785,volvo car,S60,2013,8.0,
+786,volvo car,XC90,2013,7.5,
+787,volvo car,XC90,2018,7.5,
+788,volvo car,S60,2018,8.0,
+789,volvo car,XC60,2018,7.8,
+790,volvo car,XC60,2020,8.0,
+791,volvo car,S60,2020,8.1,
+792,volvo car,XC90,2017,7.6,
+793,volvo car,XC90,2020,7.6,
+794,volvo car,S60,2015,7.9,
